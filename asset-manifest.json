@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sprofee.solutions/static/css/main.6ce65a53.css",
+    "main.js": "/sprofee.solutions/static/js/main.27278d80.js",
+    "static/media/logo.png": "/sprofee.solutions/static/media/logo.1d350c99460c62eb5009.png",
+    "index.html": "/sprofee.solutions/index.html",
+    "main.6ce65a53.css.map": "/sprofee.solutions/static/css/main.6ce65a53.css.map",
+    "main.27278d80.js.map": "/sprofee.solutions/static/js/main.27278d80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ce65a53.css",
+    "static/js/main.27278d80.js"
+  ]
+}
